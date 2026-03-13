@@ -167,7 +167,7 @@ The results indicate that purchasing behavior is **balanced between genders**.
 
 # 📷 Dashboard Preview
 
-![Retail Dashboard](RetailSalesDashboard.png)
+![Dashboard Preview](RetailSalesDashboard.png)
 
-![Data Model](RetailSalesModel.png)
+![Dashboard Preview](RetailSalesModel.png)
 
